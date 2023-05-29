@@ -17,5 +17,5 @@ Za cześć pierwszą odpowiada:
 • Zwracany typ i opis int los liczba którą wylosował program
 Za cześć drugą:  
 •	Nazwa funkcji wynik
-•	Opis funkcji porównuje liczbę podaną przez użytkownika z wylossowaną
+•	Opis funkcji porównuje liczbę podaną przez użytkownika z wylosowaną
 •	Parametry funkcji: (int los, wylosowana liczba przez generator; int userInput, liczba podana przez użytkownika  
