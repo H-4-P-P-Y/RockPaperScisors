@@ -10,9 +10,9 @@ Założenia projektu
 Opis projektu 
 Np. Aplikacja składa się z dwóch części: pobranie danych od użytkownika i  sprawdzenia czy wylosowana liczba wygrała 
 Za cześć pierwszą: 
-• Nazwa funkcji userPick
-• Opis funkcji Pobieranie od użytkownika danych w zakresie od 1 do 3 (1-Kamień, 2-Papier, 3-Nożyce)
-• Zwracany typ i opis int liczba którą wybrał użytkownik
-Za cześć drugą: 
+• Nazwa funkcji bot
+• Opis funkcji Losowanie od 1 do 3
+• Zwracany typ i opis int los liczba którą wylosował program
+Za cześć drugą: wynik
 • Nazwa funkcji main
 • Opis funkcji funkcja losuje i sprawdza jaką liczbę podał użytkownik 
